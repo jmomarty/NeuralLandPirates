@@ -1,0 +1,2 @@
+nosetests -vv
+pause
